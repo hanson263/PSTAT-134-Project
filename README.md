@@ -6,3 +6,4 @@ To do:
   3. Dimension Reduction
   4. Optimization
   5. Random Sample of data
+  6. Clustering
