@@ -5,4 +5,4 @@ To do:
   2. Command Line Stuff
   3. Dimension Reduction
   4. Optimization
-  5. 
+  5. Random Sample of data
