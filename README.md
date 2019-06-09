@@ -2,11 +2,10 @@
 
 To do:
   1. Visualization [X]
-  2. Command Line Stuff []
-  3. Dimension Reduction [X]
-  4. Optimization [X]
-  5. Random Sample of data [X]
-  6. Clustering []
+  2. Dimension Reduction [X]
+  3. Optimization [X]
+  4. Random Sample of data [X]
+  5. Clustering []
 
 Responsibilities:
 
