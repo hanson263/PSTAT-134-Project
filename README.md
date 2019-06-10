@@ -13,5 +13,5 @@ Responsibilities:
     2: How premium cost changes over income bracket. [X]
     3: Premium cost with race, age, # people in household. [X]
     4: Premium cost compared to mental disbality/mental illness/physical disability/physical illness. [X]
-    5: Premium compared to month. []
+    5: Premium compared to month. [X] #No significant result
     6: Conclusion []
