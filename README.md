@@ -1,18 +1,17 @@
 # PSTAT-134-Project
 
 To do:
-  1. Visualization
-  2. Command Line Stuff
-  3. Dimension Reduction
-  4. Optimization
-  5. Random Sample of data
-  6. Clustering
+  1. Visualization [X]
+  2. Dimension Reduction [X]
+  3. Optimization [X]
+  4. Random Sample of data [X]
+  5. Clustering []
 
 Responsibilities:
 
-    1: Introduction
-    2: How premium cost changes over income bracket.
-    3: Premium cost with race, age, # people in household.
-    4: Premium cost compared to mental disbality/mental illness/physical disability/physical illness.
-    5: Premium compared to month.
-    6: Conclusion
+    1: Introduction [X]
+    2: How premium cost changes over income bracket. [X]
+    3: Premium cost with race, age, # people in household. [X]
+    4: Premium cost compared to mental disbality/mental illness/physical disability/physical illness. [X]
+    5: Premium compared to month. [X] #No significant result
+    6: Conclusion []
